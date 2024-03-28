@@ -1,0 +1,67 @@
+.kotak {
+    width: 610px;
+    height: 329px;
+    gap: 0px;
+    border-radius: 30px;
+    opacity: 0px;
+    background-color: #DBDBDB;
+    margin: 30vh auto 0 auto;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 55px;
+    display: flex;
+    flex-direction: column;
+    ;
+}
+
+.container .judul {
+    text-align: center;
+    margin-top: 120px;
+
+}
+
+.title-container {
+    width: 475px;
+    height: 56px;
+    gap: 0px;
+    border-radius: 20px;
+    opacity: 0px;
+    background-color: #FEEEE2;
+    text-align: center;
+    ;
+
+}
+
+.kotak .image {
+    margin-top: -45px;
+}
+
+.button {
+    gap: 25px;
+}
+
+.button .button-yes {
+    width: 157px;
+    height: 41px;
+    gap: 0px;
+    border-radius: 12px;
+    opacity: 0px;
+    background-color:#6FD240;
+    margin-top: 25px;
+    margin-right: 12.5px;
+}
+
+.button .button-no {
+    width: 157px;
+    height: 41px;
+    left: 182px;
+    gap: 0px;
+    border-radius: 12px;
+    opacity: 0px;
+    background-color: #E12E2E;
+    margin-top: 25px;
+    margin-left: 12.5px
+
+}
